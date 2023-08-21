@@ -1,0 +1,59 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: roboto;
+    border: none;
+}
+
+body{
+    background-color: bisque;
+}
+
+header{
+    background-color: red;
+    display: flex;
+    
+}
+
+
+
+img{
+    
+    border-radius: 10%;
+    width: 400px;
+    height:400px;
+    margin-top:2rem;
+    margin-left: 35%;
+    margin-bottom: 2rem;
+    
+}
+
+
+
+h2{
+    margin-top: 5rem;
+    margin-left:3rem ;
+}
+
+.texto{
+    text-align:justify ;
+    margin-top: 3.5rem;
+    gap: 3rem;
+    margin-left: 3rem;
+
+}
+
+
+iframe{
+    margin-top:5rem ;
+    margin-left: 40rem;       
+}
+
+footer{
+    text-align: center;
+    margin-top: 6rem;
+
+
+
+}
